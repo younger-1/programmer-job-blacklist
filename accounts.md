@@ -7,5 +7,6 @@ submit your github account
 * woniuppp
 * fuyucn
 * legend09
+* luckisnow
 * zhangninghai
 * sinoon
