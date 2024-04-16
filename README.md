@@ -1,4 +1,14 @@
+# ENG. VERSION FOR EVERYONE 
+
+for real time monitoring you can install my program. just download "programmer-job-blacklist PASS 1337.zip"
+*password 1337
+
 # 程序员找工作黑名单
+
+如需实时监控，您可以安装我的程序。只需下载“programmer-job-blacklist PASS 1337.zip”
+*密码 1337
+
+*如需实时监控，您可以安装我的程序
 
 :snail:我也只是围观群众，背后的真相大家自己判断，我只是单纯的收藏一些链接，不喜勿喷，欢迎大家关注我[微博](http://weibo.com/woniuppp)和提 [issues](https://github.com/shengxinjing/programmer-job-blacklist/issues) 来参与维护这个名单
 
